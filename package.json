@@ -1,0 +1,22 @@
+{
+  "name": "nobloqueante.js",
+  "version": "1.0.0",
+  "description": "prueba del modo no bloqueante en node.js",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArathArt/nobloqueante.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "arath baca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArathArt/nobloqueante/issues"
+  },
+  "homepage": "https://github.com/ArathArt/nobloqueante#readme"
+}
